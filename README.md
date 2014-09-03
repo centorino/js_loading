@@ -7,15 +7,15 @@ Usage
 
 ### initialize
 ```
-LoadingJs.initialize()
+JsLoading.initialize()
 ```
 
 ### show loading
 ```
-LoadingJs.showLoading()
+JsLoading.showLoading()
 ```
 
 ### hide loading
 ```
-LoadingJs.hideLoading()
+JsLoading.hideLoading()
 ```
