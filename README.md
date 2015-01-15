@@ -17,7 +17,7 @@ And then execute:
 app/assets/javascripts/application.js
 ```
 add this line.
-//= require turbolinks_slide
+//= require js_loading
 ```
 
 ### initialize
