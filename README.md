@@ -1,6 +1,6 @@
 # JsLoading
 
-Easily add a loading animation to html page with only JavaScript.
+Easily add a loading animation to html page with only JavaScript(jQuery).
 
 ## Installation
 
