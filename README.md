@@ -1,6 +1,6 @@
 # JsLoading
 
-TODO: Write a gem description
+Easily add a loading animation to html page with only JavaScript.
 
 ## Installation
 
@@ -17,7 +17,7 @@ And then execute:
 app/assets/javascripts/application.js
 ```
 add this line.
-//= require turbolinks_slide
+//= require js_loading
 ```
 
 ### initialize
