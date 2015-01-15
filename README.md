@@ -1,6 +1,6 @@
 # JsLoading
 
-TODO: Write a gem description
+Easily add a loading animation to html page with only JavaScript.
 
 ## Installation
 
